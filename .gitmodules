@@ -1,0 +1,3 @@
+[submodule "spring-postgres"]
+	path = spring-postgres
+	url = git@github.com:kandidatlwcn/spring-postgres.git
